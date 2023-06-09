@@ -45,3 +45,8 @@ n = 0
 while n < 4:
     print(menus[n])
     n += 1
+
+print('----------------------------------')
+
+for menu in menus:
+    print(menu)
